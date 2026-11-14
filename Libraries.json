@@ -1,0 +1,9 @@
+{
+  "libs": [
+    {
+      "name": "libFilzer.so",
+      "version": "3.4",
+      "link": "https://media.githubusercontent.com/media/filzeropp/filzer-loader-files/main/libs/libFilzer.so"
+    }
+  ]
+}
