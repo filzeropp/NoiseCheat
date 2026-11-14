@@ -1,9 +1,9 @@
 {
   "libs": [
     {
-      "name": "libFilzer.so",
-      "version": "3.4",
-      "link": "https://media.githubusercontent.com/media/filzeropp/filzer-loader-files/main/libs/libFilzer.so"
+      "name": "libNoise.so",
+      "version": "1.0",
+      "link": "https://media.githubusercontent.com/media/filzeropp/NoiseCheat/main/libs/libNoise.so"
     }
   ]
 }
